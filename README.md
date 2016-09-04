@@ -5,8 +5,12 @@
 + Arduous: 
    >involving or requiring strenuous effort; difficult and tiring.
 
-- Example : understanding Theory of Computation was arduous to me.
+- Usage: understanding Theory of Computation was arduous to me.
 #### 2nd September 2016
 + Strenuous
 	>Requiring great effort, energy, or exertion
-- Example: Learning anything deeply require strenuous effort.
+- Usage: Learning anything deeply require strenuous effort.
+#### 3rd September 2016
++ Intuition:
+	>The act or faculty of knowing or sensing without the use of rational processes
+- Usage:I used my intuition to solve this problem.
