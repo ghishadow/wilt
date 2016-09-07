@@ -19,3 +19,8 @@
 + ubiquitous:
 	>present, appearing, or found everywhere
 - Usage:his ubiquitous influence was felt by all the family.
+
+#### 7th September 2016
++ abysmal:
+	>very great(in bad sense)
+- Usage:The weather is abysmal.
